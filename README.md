@@ -44,8 +44,6 @@ I have included a minimal e2e testing with supertest for the "todo" route in the
 - **Prettier**
 - **dotenv**
 
-Great 👍 — here’s a concise **README note** you can add at the top of your repo so the interviewer immediately sees your explanation:
-
 ---
 
 # Note to Reviewer
